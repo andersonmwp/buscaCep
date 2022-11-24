@@ -1,4 +1,4 @@
-# buscaCep
+# busca CEP
 
 <p>Projeto realizado para colocar em prática os estudo de consumo de api</p>
 <br>
